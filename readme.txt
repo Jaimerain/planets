@@ -1,2 +1,0 @@
-This my python code for summer class
-wow
